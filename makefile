@@ -1,5 +1,5 @@
 DEFINES=-DPICKLE_EXTEND
-CFLAGS=-std=c99 -Wall -Wextra -Ipickle -Lpickle
+CFLAGS=-std=gnu99 -Wall -Wextra -Ipickle -Lpickle
 TARGET=ansi
 
 ifeq ($(OS),Windows_NT)
