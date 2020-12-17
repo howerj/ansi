@@ -1,0 +1,7 @@
+*.a
+ansi
+*.dll
+*.exe
+*.log
+*.so
+*.txt

@@ -1,0 +1,3 @@
+[submodule "pickle"]
+	path = pickle
+	url = https://github.com/howerj/pickle
